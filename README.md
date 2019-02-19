@@ -148,9 +148,9 @@ how to create a web service with Flask and Redis to classify image with a concre
 ### Bioimage tools
 This is the better way to use the API. We have connect DeepClas4Bio with three different bioimage tools, namely, 
 ImageJ, ImagePy and Icy. THe source code of these plugins could be found:
-- [ImageJ plugin](https://github.com/adines/DeepClas4BioIJ). This plugin connects DeepClas4Bio with ImageJ.
-- [ImagePy plugin](https://github.com/adines/DeepClas4BioImagePy). This plugin connects DeepClas4Bio with ImagePy.
-- [Icy plugin](https://github.com/adines/DeepClas4BioIcy). This plugin connects DeepClas4Bio with Icy.
+- [ImageJ plugin](https://github.com/adines/DeepClas4BioIJ). This plugin connects DeepClas4Bio with [ImageJ](https://imagej.net/Welcome).
+- [ImagePy plugin](https://github.com/adines/DeepClas4BioImagePy). This plugin connects DeepClas4Bio with [ImagePy](https://github.com/Image-Py/imagepy).
+- [Icy plugin](https://github.com/adines/DeepClas4BioIcy). This plugin connects DeepClas4Bio with [Icy](http://icy.bioimageanalysis.org/).
 - [ImageJ model comparator](https://github.com/adines/DeepClas4BioIJComparator). This plugin allow to compare different deep models in ImageJ.
 - [IcyKvasir plugin](https://github.com/adines/DeepClas4BioIcyKvasir). This plugin allows users to classify a batch of images using the ResNet model trained in the Kvasir dataset.
 - [ImagePyISIC plugin](https://github.com/adines/DeepClas4BioImagePyISIC). This plugin allows users to classify an image using the ResNet model trained in the ISIC dataset.
