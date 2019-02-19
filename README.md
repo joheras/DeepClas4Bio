@@ -17,7 +17,7 @@ DeepClas4Bio is available in PyPi for Python 3.6. To use it, you have to install
 ````
     sudo pip3 install deepclas4bio
 ````
-If you want to use Caffe framework you have to insatalle it following the steps of the [Caffe project](http://caffe.berkeleyvision.org/install_apt.html).
+If you want to use Caffe framework you have to install it following the steps of the [Caffe project](http://caffe.berkeleyvision.org/install_apt.html).
 
 ### Windows
 
@@ -25,7 +25,7 @@ If you want to use Caffe framework you have to insatalle it following the steps 
     pip3 install https://download.pytorch.org/whl/cpu/torch-1.0.1-cp36-cp36m-win_amd64.whl
     pip3 install deepclas4bio
 ````
-If you want to use Caffe framework you have to insatalle it following the steps of the [Caffe project](https://github.com/BVLC/caffe/tree/windows).
+If you want to use Caffe framework you have to install it following the steps of the [Caffe project](https://github.com/BVLC/caffe/tree/windows).
 
 ## Including new frameworks in the API
 To include new frameworks in the API you have to complete these three steps:
